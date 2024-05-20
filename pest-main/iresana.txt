@@ -1,0 +1,39 @@
+Name: Marats 
+Telefona numurs: 1
+Automašīnas modelis: BMW E60
+Cena par dienu: 40.0 EUR
+Pārnešana veids: automāts
+Degvielas veids: Gas
+Uz 6 dienām?
+
+Apdrošināšanas veids: Pilna apdrošināšana 700EUR
+
+Summa: 940,00 EUR
+
+----------------
+Name: arturs dzherk 
+Telefona numurs: 2010821
+Automašīnas modelis: BMW E60
+Cena par dienu: 40.0 EUR
+Pārnešana veids: automāts
+Degvielas veids: Gas
+Uz 1 dienām?
+
+Apdrošināšanas veids: Nav 0EUR
+
+Summa: 40,00 EUR
+
+----------------
+Name: а 
+Telefona numurs: в
+Automašīnas modelis: BMW E60
+Cena par dienu: 40.0 EUR
+Pārnešana veids: automāts
+Degvielas veids: Gas
+Uz 2 dienām?
+
+Apdrošināšanas veids: Nav 0EUR
+
+Summa: 80,00 EUR
+
+----------------

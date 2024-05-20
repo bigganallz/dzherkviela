@@ -1,0 +1,13 @@
+Name: asd 
+Telefona numurs: asdasd
+Automašīnas modelis: BMW E60
+Cena par dienu: 40.0 EUR
+Pārnešana veids: automāts
+Degvielas veids: Gas
+Uz 1 dienām?
+
+Apdrošināšanas veids: Nav 0EUR
+
+Summa: 40,00 EUR
+
+----------------
